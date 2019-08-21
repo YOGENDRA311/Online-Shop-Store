@@ -1,0 +1,26 @@
+.support{
+      width: 100%;
+      display: inline-block;
+      float: left;
+      padding: 50px 0;
+      text-align: center;
+}
+.support a{
+    display: inline-block;
+    width: 24.5%;
+    float: left;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #e7e7e7;
+    padding-bottom: 25px;
+}
+.support a h5{
+    padding-top: 10px;
+}
+.support a img{
+    max-width: 100px;
+}
+
